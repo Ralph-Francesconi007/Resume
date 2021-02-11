@@ -1,0 +1,58 @@
+@import '~bootstrap/scss/bootstrap';
+
+.name-style {
+    text-align: center;
+    font-size: 30px;
+}
+
+.name-footer {
+    text-align: center;
+}
+
+.about-style {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.grad {
+    text-align: right;
+}
+
+.education-header {
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.education {
+    margin-left: 50px;
+    margin-bottom: 1px;
+}
+
+.work-header {
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.work-title-one {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.work-one {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.date-one {
+    font-size: 18px;
+    margin-left: 50px;
+}
+
+.bullets {
+    margin-left: 50px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
